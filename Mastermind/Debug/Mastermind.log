@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (1A2B.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  Mastermind.cpp
+C:\Users\user\OneDrive\桌面\2\Mastermind\Mastermind\Header.h(9,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Mastermind.vcxproj -> C:\Users\user\OneDrive\桌面\2\Mastermind\Debug\Mastermind.exe
